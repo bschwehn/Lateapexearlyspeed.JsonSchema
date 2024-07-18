@@ -21,6 +21,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LateApexEarlySpeed.Xunit.As
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LateApexEarlySpeed.Assertion.Json.UnitTests", "LateApexEarlySpeed.Assertion.Json.UnitTests\LateApexEarlySpeed.Assertion.Json.UnitTests.csproj", "{AFBEA2D1-2583-42B8-9DA5-2ADFBEA8C7A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp2", "BlazorApp2\BlazorApp2.csproj", "{D6B4B08F-6472-4A42-A525-319E4D14D87B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTest", "ConsoleTest\ConsoleTest.csproj", "{38F861D1-8994-4E50-927E-E3AD78F5084A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{AFBEA2D1-2583-42B8-9DA5-2ADFBEA8C7A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFBEA2D1-2583-42B8-9DA5-2ADFBEA8C7A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFBEA2D1-2583-42B8-9DA5-2ADFBEA8C7A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B4B08F-6472-4A42-A525-319E4D14D87B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B4B08F-6472-4A42-A525-319E4D14D87B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B4B08F-6472-4A42-A525-319E4D14D87B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B4B08F-6472-4A42-A525-319E4D14D87B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38F861D1-8994-4E50-927E-E3AD78F5084A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F861D1-8994-4E50-927E-E3AD78F5084A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F861D1-8994-4E50-927E-E3AD78F5084A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F861D1-8994-4E50-927E-E3AD78F5084A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
